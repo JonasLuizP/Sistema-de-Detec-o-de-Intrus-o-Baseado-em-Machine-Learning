@@ -24,6 +24,7 @@ O fluxo do sistema é dividido em três módulos independentes que se comunicam 
 * **Linguagem C:** Sockets API (TCP/IP e AF_UNIX), Pthreads, alocação dinâmica de memória.
 * **Linguagem Python:** `socket`, `threading`.
 * **Ciência de Dados / IA:** `scikit-learn` (Random Forest Classifier), `pandas` (One-Hot Encoding), `joblib` (serialização de modelos).
+* **Dataset:** https://www.kaggle.com/datasets/hassan06/nslkdd?select=KDDTest%2B.arff
 
 ## 🚀 Como Executar o Projeto
 
